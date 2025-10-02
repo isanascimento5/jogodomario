@@ -1,0 +1,12 @@
+body{
+    background-image: url(imagem1.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.personagem{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 750px;
+}
